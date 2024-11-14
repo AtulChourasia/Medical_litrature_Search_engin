@@ -3,7 +3,7 @@ import csv
 
 # Configure your email and API key
 Entrez.email = "atul2002chourasia@gmail.com"
-Entrez.api_key = "f7a08174a11fe23e9efbe66947d1ff4e3208"  # Use your API key
+Entrez.api_key = ""  # Use your API key
 
 def search(query):
     try:
